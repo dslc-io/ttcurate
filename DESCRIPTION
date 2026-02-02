@@ -13,6 +13,9 @@ Description: Helper functions and guidance for curating datasets for the
     submissions, analyze dataset sizes, and follow best practices for data
     preparation and documentation.
 License: MIT + file LICENSE
+URL: https://github.com/dslc-io/ttcurate,
+    https://dslc-io.github.io/ttcurate/
+BugReports: https://github.com/dslc-io/ttcurate/issues
 Suggests: 
     testthat (>= 3.0.0)
 Config/testthat/edition: 3
@@ -20,5 +23,3 @@ Encoding: UTF-8
 Language: en-US
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.3.3
-URL: https://github.com/dslc-io/ttcurate
-BugReports: https://github.com/dslc-io/ttcurate/issues
