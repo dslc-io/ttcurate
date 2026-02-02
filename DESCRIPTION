@@ -1,0 +1,22 @@
+Package: ttcurate
+Title: What the Package Does
+Version: 0.0.0.9000
+Authors@R: 
+    person("Jon", "Harmon", , "jonthegeek@gmail.com", role = c("aut", "cre"),
+           comment = c(ORCID = "0000-0003-4781-4346"))
+Description: Helper functions and guidance for curating datasets for the
+    'TidyTuesday' weekly data project. 'TidyTuesday' is a project by the
+    'Data Science Learning Community' in which they post a weekly dataset
+    in a public data repository
+    (<https://github.com/rfordatascience/tidytuesday>) for people to
+    analyze and visualize. This package includes tools to explore past
+    submissions, analyze dataset sizes, and follow best practices for data
+    preparation and documentation.
+License: MIT + file LICENSE
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
+Encoding: UTF-8
+Language: en-US
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.3
